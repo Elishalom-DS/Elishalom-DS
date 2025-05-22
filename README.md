@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Elishalom-DS
-- 👀 I’m interested in learning Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science
+- 👋 Hi, I’m @Elishalom
+- 👀 I’m interested in learning Web Development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Frontend
 - 📫 How to reach me whatsapp: +2348069067107
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
